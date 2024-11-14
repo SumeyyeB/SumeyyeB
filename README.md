@@ -1,9 +1,8 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Sümeyye BALKAYA <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>  
-<h3 align="center">Exploring the world of Full Stack development</h3>
+<h3 align="center">Exploring the world of Full Stack development <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"
 
+</h3>
 
 
 - 🌱 I’m currently learning **backend/frontend technologies**

@@ -12,7 +12,7 @@
  <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  width="300">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/s%C3%BCmeyye-balkaya-212998213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sümeyye balkaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumeyyebalkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sümeyye balkaya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sumeyyeblky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumeyyebalky" height="30" width="40" /></a>
 </p>
 
